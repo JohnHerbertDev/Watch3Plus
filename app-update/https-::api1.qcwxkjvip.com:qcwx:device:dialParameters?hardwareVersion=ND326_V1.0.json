@@ -1,0 +1,62 @@
+{
+	"data": {
+		"bgImage": "http://api2.qcwxkjvip.com/download/devicePicture/custom/M78_V4.0_bg.png",
+		"display": 1,
+		"elements": [{
+			"h": 162,
+			"imageUrl": "http://api2.qcwxkjvip.com/download/devicePicture/custom/M78_V4.0_1.png",
+			"type": 1,
+			"w": 419,
+			"x": 128,
+			"y": 351
+		}, {
+			"h": 59,
+			"imageUrl": "http://api2.qcwxkjvip.com/download/devicePicture/custom/M78_V4.0_2.png",
+			"type": 2,
+			"w": 214,
+			"x": 234,
+			"y": 324
+		}, {
+			"h": 0,
+			"imageUrl": "",
+			"type": 3,
+			"w": 0,
+			"x": 0,
+			"y": 0
+		}, {
+			"h": 0,
+			"imageUrl": "",
+			"type": 301,
+			"w": 0,
+			"x": 0,
+			"y": 0
+		}, {
+			"h": 0,
+			"imageUrl": "",
+			"type": 302,
+			"w": 0,
+			"x": 0,
+			"y": 0
+		}, {
+			"h": 0,
+			"imageUrl": "",
+			"type": 303,
+			"w": 0,
+			"x": 0,
+			"y": 0
+		}, {
+			"h": 0,
+			"imageUrl": "http://api2.qcwxkjvip.com/download/devicePicture/custom/M78_V3.0_401.png",
+			"type": 401,
+			"w": 0,
+			"x": 0,
+			"y": 0
+		}],
+		"height": 448,
+		"hwVersion": "ND326_V1.0",
+		"radius": 90,
+		"width": 368
+	},
+	"message": "Successful operation",
+	"retCode": 0
+}
