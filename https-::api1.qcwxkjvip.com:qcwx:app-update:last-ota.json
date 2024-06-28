@@ -1,0 +1,23 @@
+{
+	"data": {
+		"id": 1,
+		"appId": 1,
+		"downloadUrl": "http://api2.qcwxkjvip.com/download/ota/ND326_V1.0/ND326_1.00.07_240618.bin",
+		"enforceUpdateFrom": "",
+		"enforceUpdateTo": "",
+		"hardwareVersion": "M78_V4.1",
+		"_id": 3199,
+		"isEnforceUpdate": "1",
+		"macRange": "",
+		"openOrNot": 2,
+		"os": 2,
+		"specifyMacUpgrade": "",
+		"updateDesc": "1. Fixed an issue with dial switching and reset.\n2. Add dynamic pointer effects when switching dials.",
+		"uploadDate": "2024-06-18T12:01:18.000000Z",
+		"version": "ND326_1.00.07_240618",
+		"created_at": "2024-06-26T06:49:03.000000Z",
+		"updated_at": "2024-06-26T06:49:03.000000Z"
+	},
+	"message": "Successful operation",
+	"retCode":0
+}
